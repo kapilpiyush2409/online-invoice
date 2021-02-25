@@ -1,0 +1,27 @@
+input {
+    border-bottom-style: hidden;
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+}
+select{
+      border-bottom-style: hidden;
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+  
+}
+#a input {
+    
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+}
+#a  select{
+     
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+  
+}
+
